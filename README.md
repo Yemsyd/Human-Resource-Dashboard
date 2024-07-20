@@ -48,6 +48,8 @@ While working on this project I used some Excel functions and formulas in gettin
 
 ### Results / Findings
 
+![Staff Indicator](https://github.com/user-attachments/assets/7bceee32-1394-445e-8a0c-01bbe8340680)
+
  - Currently the organization has 23% active staff 15 males and 8 females.
  - Since 2018 till date we’ve had 7 exits with 4 resignation and 3 terminations
  - The staff of finance department had the best appraisal with an average of 3.5/5

@@ -53,4 +53,8 @@ While working on this project I used some Excel functions and formulas in gettin
  - The staff of finance department had the best appraisal with an average of 3.5/5
 
 
+### Recommendations
+
+ - The research department should get more funding from the employer since their effort and impact contributes to the development of the organization.
+ - The Human Resource needs to consider employing more hands in departments where they are short staffed. The last time there was new recruitment was in 2018. This can also have a significant impact on the growth of the organization.
 
